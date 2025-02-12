@@ -1,4 +1,5 @@
 <h1 align="center">Hello world 👋, I'm Aditya Chavan</h1>
+<h3 align="center">Sophomore at Veermata Jijabai Technological Institute, Mumbai 
 <h3 align="center">A passionate web developer from India</h3>
 
 - 🌱 I’m currently learning **Generative AI**
