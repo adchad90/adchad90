@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Generative AI**
 
-- 📫 How to reach me **iaditya.2016@gmail.com**
+- 📫 How to reach me **https://avchvn.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
