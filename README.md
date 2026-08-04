@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on focusFlow, your personal intelligent agent, that fetches relevance from the noisy digital world<br>Final year Information Technology student at Veermata Jijabai Technological Institute <br>Looking for opportunities to collaborate with like minded devs, and be an impactful developer<br>
+Currently working on ClassCliq your personal intelligent agent, that keeps you focused and updated, receive only important notifications, even on DND<br>Final year Information Technology student at Veermata Jijabai Technological Institute <br>Looking for opportunities to collaborate with like minded devs, and be an impactful developer<br>
 
 
 ## 🌐 Socials:
